@@ -73,7 +73,7 @@ namespace Aula_26._11._2020
 
                     case 2:
                         //Listar as passagens
-                                for (var i = 0; i < 5; i++)
+                                for (var i = 0; contador < 5; i++)
                                 {
                                     Console.WriteLine($"Passageiro {nomes[i]}");
                                 }
